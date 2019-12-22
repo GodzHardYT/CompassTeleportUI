@@ -1,0 +1,44 @@
+#                           |------------------------------------------------------------|
+#                           |        Plugin created by WHiTeG0Dz_ and for support        |
+#                           | Contact me on telegram @GodzHard or Discord WHiTeG0Dz_#2791|
+#                           |------------------------------------------------------------|
+
+#The CompassName is used to choose the name of the compass
+CompassName: "§cCompassTeleportUI"
+
+#The title would be the initial part of the UI
+Title: "§cTeleportUI"
+
+#The description is the part below the UI
+Description: "§aCustom plugin created by GodzHard"
+
+#The button for teleport in games
+Button: "true"
+Button-On: "Practice"
+Button-Command: "mv tp Practice"
+
+Button1: "true"
+Button1-On: "PvP"
+Button1-Command: "mv tp PvP"
+
+Button2: "true"
+Button2-On: "Build Battle"
+Button2-Command: "mv tp BuildBattle"
+
+Button3: "true"
+Button3-On: "Prison"
+Button3-Command: "mv tp Prison"
+
+Button4: "true"
+Button4-On: "SkyWars"
+Button4-Command: "mv tp SkyWars"
+
+Button5: "true"
+Button5-On: "BedWars"
+Button5-Command: "mv tp BedWars"
+
+Button6: "true"
+Button6-On: "Factions"
+Button6-Command: "mv tp Factions"
+
+#For my others plugin visit my profile on GitHub! https://github.com/GodzHardYT

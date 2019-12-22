@@ -1,0 +1,8 @@
+name: CompassTeleportUI
+main: GodzHard\CompassTeleportUI\Main
+api: 3.11.1
+version: 1.0
+author: GodzHard
+commands:
+  teleportui:
+    description: open the menu servers
