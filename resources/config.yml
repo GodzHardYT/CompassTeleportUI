@@ -4,40 +4,40 @@
 #                           |------------------------------------------------------------|
 
 #The CompassName is used to choose the name of the compass
-CompassName: "§cCompassTeleportUI"
+CompassName: "§bServers §7[Right-Click]"
 
 #The title would be the initial part of the UI
-Title: "§cTeleportUI"
+Title: "§r§6Server §eList"
 
 #The description is the part below the UI
-Description: "§aCustom plugin created by GodzHard"
+Description: "§6Want to §eplay our server?\n§bIt's simple §3just tap a server minigame §byou like."
 
 #The button for teleport in games
 Button: "true"
-Button-On: "Practice"
-Button-Command: "mv tp Practice"
+Button-On: "§aOnline §bFactions§3SkyBlock"
+Button-Command: "transferserver galaxype.nbb.one 22091"
 
 Button1: "true"
-Button1-On: "PvP"
-Button1-Command: "mv tp PvP"
+Button1-On: "§cOffline §eSky§6Wars"
+Button1-Command: "say In work"
 
 Button2: "true"
-Button2-On: "Build Battle"
-Button2-Command: "mv tp BuildBattle"
+Button2-On: "§cOffline §2Anarchy"
+Button2-Command: "say work"
 
 Button3: "true"
-Button3-On: "Prison"
-Button3-Command: "mv tp Prison"
+Button3-On: "§cOffline §5Prison"
+Button3-Command: "say work"
 
 Button4: "true"
-Button4-On: "SkyWars"
-Button4-Command: "mv tp SkyWars"
+Button4-On: "§cOffline §cKit§4PvP"
+Button4-Command: "say work"
 
-Button5: "true"
+Button5: "false"
 Button5-On: "BedWars"
 Button5-Command: "mv tp BedWars"
 
-Button6: "true"
+Button6: "false"
 Button6-On: "Factions"
 Button6-Command: "mv tp Factions"
 
